@@ -1,5 +1,5 @@
-# Recursive Sodoku-solver
-Solving any size of sodoku table using recursion
+# Recursive Sudoku-solver
+Solving any size of sudoku table using recursion
 # main 
 main holds the initiation of the class 'sodoku solver' and the initial sudoko board and board size as parameters
 # sodoku_solver 
